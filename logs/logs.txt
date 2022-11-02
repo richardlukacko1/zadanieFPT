@@ -1,0 +1,23 @@
+[main] INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\richa\AppData\Local\JetBrains\IntelliJIdea2022.2\temp-testng-customsuite.xml
+
+[main] INFO org.example.AppTest - Setting capabilities
+[main] INFO org.example.AppTest - Starting Calculator App...
+nov 02, 2022 9:13:06 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+[main] INFO org.example.AppTest - Test / started ...
+[main] INFO org.example.AppTest - Clearing Calculator result box.
+[main] INFO org.example.AppTest - Test - started ...
+[main] INFO org.example.AppTest - Clearing Calculator result box.
+[main] INFO org.example.AppTest - Test * started ...
+[main] INFO org.example.AppTest - Clearing Calculator result box.
+[main] INFO org.example.AppTest - Test + started ...
+[main] INFO org.example.AppTest - Clearing Calculator result box.
+[main] INFO org.example.AppTest - Tests completed.
+[main] INFO org.example.AppTest - Turning driver off.
+
+===============================================
+Default Suite
+Total tests run: 4, Passes: 4, Failures: 0, Skips: 0
+===============================================
+
