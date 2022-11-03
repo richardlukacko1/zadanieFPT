@@ -1,122 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[Setting capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Starting Calculator App...]]>
-    </line>
-    <line>
-      <![CDATA[Test / started ...]]>
-    </line>
-    <line>
-      <![CDATA[Clearing Calculator result box.]]>
-    </line>
-    <line>
-      <![CDATA[Test - started ...]]>
-    </line>
-    <line>
-      <![CDATA[Clearing Calculator result box.]]>
-    </line>
-    <line>
-      <![CDATA[Test * started ...]]>
-    </line>
-    <line>
-      <![CDATA[Clearing Calculator result box.]]>
-    </line>
-    <line>
-      <![CDATA[Test + started ...]]>
-    </line>
-    <line>
-      <![CDATA[Clearing Calculator result box.]]>
-    </line>
-    <line>
-      <![CDATA[Tests completed.]]>
-    </line>
-    <line>
-      <![CDATA[Turning driver off.]]>
-    </line>
   </reporter-output>
-  <suite started-at="2022-11-02T09:12:57 SEČ" name="Default Suite" finished-at="2022-11-02T09:13:47 SEČ" duration-ms="49873">
+  <suite started-at="2022-11-03T10:35:41 SEČ" name="Default Suite" finished-at="2022-11-03T10:36:08 SEČ" duration-ms="27092">
     <groups>
     </groups>
-    <test started-at="2022-11-02T09:12:57 SEČ" name="zadanieFPT" finished-at="2022-11-02T09:13:47 SEČ" duration-ms="49873">
+    <test started-at="2022-11-03T10:35:41 SEČ" name="zadanieFPT" finished-at="2022-11-03T10:36:08 SEČ" duration-ms="27092">
       <class name="org.example.AppTest">
-        <test-method is-config="true" signature="setCaps()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:12:57 SEČ" name="setCaps" finished-at="2022-11-02T09:13:09 SEČ" duration-ms="12775" status="PASS">
+        <test-method is-config="true" signature="setCaps()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:35:41 SEČ" name="setCaps" finished-at="2022-11-03T10:35:52 SEČ" duration-ms="11106" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Setting capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Starting Calculator App...]]>
-            </line>
           </reporter-output>
         </test-method> <!-- setCaps -->
-        <test-method signature="testDivision()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:09 SEČ" name="testDivision" finished-at="2022-11-02T09:13:17 SEČ" duration-ms="7991" status="PASS">
+        <test-method signature="testDivision()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:35:52 SEČ" name="testDivision" finished-at="2022-11-03T10:35:55 SEČ" duration-ms="3349" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Test / started ...]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testDivision -->
-        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:17 SEČ" name="afterEachTest" finished-at="2022-11-02T09:13:19 SEČ" duration-ms="1231" status="PASS">
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:35:55 SEČ" name="afterEachTest" finished-at="2022-11-03T10:35:56 SEČ" duration-ms="171" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Clearing Calculator result box.]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method signature="testMinus()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:19 SEČ" name="testMinus" finished-at="2022-11-02T09:13:27 SEČ" duration-ms="7943" status="PASS">
+        <test-method signature="testMinus()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:35:56 SEČ" name="testMinus" finished-at="2022-11-03T10:36:00 SEČ" duration-ms="4270" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Test - started ...]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testMinus -->
-        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:27 SEČ" name="afterEachTest" finished-at="2022-11-02T09:13:28 SEČ" duration-ms="1200" status="PASS">
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:00 SEČ" name="afterEachTest" finished-at="2022-11-03T10:36:00 SEČ" duration-ms="146" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Clearing Calculator result box.]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method signature="testMulti()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:28 SEČ" name="testMulti" finished-at="2022-11-02T09:13:36 SEČ" duration-ms="7861" status="PASS">
+        <test-method signature="testMulti()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:00 SEČ" name="testMulti" finished-at="2022-11-03T10:36:04 SEČ" duration-ms="3885" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Test * started ...]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testMulti -->
-        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:36 SEČ" name="afterEachTest" finished-at="2022-11-02T09:13:38 SEČ" duration-ms="1789" status="PASS">
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:04 SEČ" name="afterEachTest" finished-at="2022-11-03T10:36:04 SEČ" duration-ms="159" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Clearing Calculator result box.]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method signature="testPlus()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:38 SEČ" name="testPlus" finished-at="2022-11-02T09:13:45 SEČ" duration-ms="7820" status="PASS">
+        <test-method signature="testPlus()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:04 SEČ" name="testPlus" finished-at="2022-11-03T10:36:08 SEČ" duration-ms="3827" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Test + started ...]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testPlus -->
-        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:45 SEČ" name="afterEachTest" finished-at="2022-11-02T09:13:47 SEČ" duration-ms="1205" status="PASS">
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:08 SEČ" name="afterEachTest" finished-at="2022-11-03T10:36:08 SEČ" duration-ms="152" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Clearing Calculator result box.]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method is-config="true" signature="afterAll()[pri:0, instance:org.example.AppTest@23529fee]" started-at="2022-11-02T09:13:47 SEČ" name="afterAll" finished-at="2022-11-02T09:13:48 SEČ" duration-ms="1437" status="PASS">
+        <test-method is-config="true" signature="afterAll()[pri:0, instance:org.example.AppTest@233fe9b6]" started-at="2022-11-03T10:36:08 SEČ" name="afterAll" finished-at="2022-11-03T10:36:08 SEČ" duration-ms="375" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Tests completed.]]>
-            </line>
-            <line>
-              <![CDATA[Turning driver off.]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterAll -->
       </class> <!-- org.example.AppTest -->
