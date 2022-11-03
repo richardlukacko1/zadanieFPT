@@ -3,7 +3,7 @@
 
 [main] INFO org.example.AppTest - Setting capabilities
 [main] INFO org.example.AppTest - Starting Calculator App...
-nov 03, 2022 10:35:49 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+nov 03, 2022 10:38:23 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
 INFO: Detected dialect: W3C
 [main] INFO org.example.AppTest - Test / started ...
 [main] INFO org.example.AppTest - Clearing Calculator result box.
